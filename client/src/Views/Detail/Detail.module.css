@@ -1,0 +1,15 @@
+/* .detail {
+    padding-left: 31vw;
+    background-color: #333b52;
+    padding-bottom: 15vh;
+    height: 85vh;
+} */
+
+.detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333b52;
+    min-height: 100vh;
+}
+

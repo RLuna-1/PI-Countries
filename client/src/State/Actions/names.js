@@ -1,0 +1,7 @@
+export const SET_COUNTRIES = "SET_COUNTRIES";
+export const SET_FILTERS = "SET_FILTERS"
+export const SET_COUNTRY_BY_ID = "SET_COUNTRY_BY_ID"
+export const SET_ACTIVITIES = "SET_ACTIVITIES"
+export const SET_EVERY_COUNTRY = "SET_EVERY_COUNTRY"
+export const ADD_ACTIVITY = "ADD_ACTIVITY"
+export const LOGIN_USER = "SET_LOGIN"

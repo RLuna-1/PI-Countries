@@ -1,0 +1,23 @@
+.main {
+    /* background-color: #202040; */
+    background-color: #222831;
+    color: #E9F8F9;
+    padding-bottom: 51px;
+    overflow-y: hidden;
+    height: 100vh;
+}
+
+.container {
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.shinobiButton {
+    padding: 20px;
+    position: fixed;
+    margin-top: -27px;
+    background-color: #333b52;
+    border-style: hidden;
+    color: #333b52
+}
+

@@ -1,0 +1,54 @@
+.activitycontainer {
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.label {
+    font-weight:500;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+.boxes {
+    margin-right: 120px;
+    border-radius: 22px;
+    padding: 3px;
+}
+
+.boxescountry {
+    border-radius: 22px;
+    padding: 3px;
+}
+
+.button {
+    margin-top: 55px;
+    width: 100px;
+  height: 44px;
+  padding: 0 20px;
+
+  background-color: #c09b8a;
+  color:black;
+  border-radius: 12px;
+  border-style: hidden;
+  font-size: 16px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button:disabled {
+    background-color: #333b52;
+    color: #333b52;
+}
+
