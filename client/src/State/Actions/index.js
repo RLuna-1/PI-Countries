@@ -122,7 +122,6 @@ export const fetchEveryCountry = () => {
   return async (dispatch) => {
     try {
       const response = await axios.get("http://localhost:3001/everyCountry");
-      console.log("SEXO:", response);
       dispatch(setEveryCountry(response.data));
     } catch (error) {
       console.log(error);
