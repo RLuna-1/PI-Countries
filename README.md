@@ -22,4 +22,4 @@
 -  Crear actividades turísticas.
 
 
-  <img src="https://res.cloudinary.com/dyboo6pjz/image/upload/v1694747316/u0gd4bpxoyywlcve8fie.png)https://res.cloudinary.com/dyboo6pjz/image/upload/v1694747316/u0gd4bpxoyywlcve8fie.png"/>
+ ![Countries](https://res.cloudinary.com/dyboo6pjz/image/upload/v1694747316/u0gd4bpxoyywlcve8fie.png)
